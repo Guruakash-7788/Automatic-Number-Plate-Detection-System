@@ -1,0 +1,7 @@
+easyocr
+opencv-python
+mysql-connector-python
+numpy
+cvzone
+datetime
+date
